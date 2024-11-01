@@ -1353,7 +1353,7 @@ body.is-preload #bg:before {
 @media screen and (max-width: 736px) {
 
 	#wrapper {
-		padding: 2rem 1rem;
+		padding: 5rem 2rem;
 	}
 
 }
